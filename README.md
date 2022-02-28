@@ -7,6 +7,6 @@ Diego de Jesus Alcantara Toribio
 # Descripcion del programa
 
 
-Bueno, este programa es una alculadora que hice hace un tiempo con el profesor Amadis Suarez cuando nos enseño sobre interfaces gaficias 
+Bueno, este programa es una alculadora que hice hace un tiempo con el profesor Amadis Suarez cuando nos enseño sobre interfaces gaficas 
 con ayuda de varios codigos de intenet hice esta calculadora usando tkinter, ya para la asiguiente version solo debo hacerle la conexion 
 a SQL y asi guarde un historial, vere como me sale eso xD
