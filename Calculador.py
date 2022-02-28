@@ -3,7 +3,7 @@ from tkinter import*
 yo=Tk()
 yo.geometry("354x460")
 yo.title("Calculadora")
-yo.config(background='Dark gray')
+yo.config(background='Dark gray') # si abre la imagen tkinter_colores.png puede cambiar el color del background
 
 textin=StringVar()
 aperador=""
