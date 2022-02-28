@@ -12,4 +12,4 @@ con ayuda de varios codigos de intenet hice esta calculadora usando tkinter, ya 
 a SQL y asi guarde un historial, vere como me sale eso xD
 
 Por ahora es solo una calculadora en interfaz grafica,  estoy pensando en hacer un login con su validacion en interfaz grafica para el
-siguiente ya que teste no me convence mucho y no se me ocurre bien la idea de conectarlo a SQL,  eso es solo una peqyueña prueba de uso de interfaz grafica en Python
+siguiente ya que este no me convence mucho y no se me ocurre bien la idea de conectarlo a SQL,  eso es solo una peqyueña prueba de uso de interfaz grafica en Python
