@@ -1,3 +1,0 @@
-Este programa es una calculadora hecha en tkinter,  puse la imagen con la paleta de coleres para que pueda cambiarlo a gusto
-este programa ys lo tenia hecho de la asignatura introduccion a la programacion con Amadis,  solo debo hacer la conexion con SQL
-para si tener el programa completo con un historial
