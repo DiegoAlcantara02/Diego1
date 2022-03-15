@@ -7,3 +7,9 @@ Diego de Jesus Alcantara Toribio
 # Descripcion del programa
 Por ahora es solo una calculadora en interfaz grafica,  estoy pensando en hacer un login con su validacion en interfaz grafica para el
 siguiente ya que este no me convence mucho y no se me ocurre bien la idea de conectarlo a SQL,  eso es solo una peqyueña prueba de uso de interfaz grafica en Python
+
+
+# Actualizacion dia Final 14/03/22
+Luego de ya de hacer la ultima version,  que es solo un login con una segunda ventana en blanco ya que al final no pude hacer que del documento del login se abriese la calculadora, bueno,  al final es un login,  con 2 usuario y base de datos en MySql
+
+( Casi olvide decir eta actualizacion y subir el link a la plataforma xD )
