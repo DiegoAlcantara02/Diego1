@@ -1,6 +1,8 @@
 Bueno,  en esta version del programa intente ser muy ambicioso y agregarle un login a la calculadora
 pero al final no logre hacer que la calculadora abriera con el archivo del login, por lo que decidi dejar
-solo el login con una segunda ventana en blanco
+solo el login con una segunda ventana en blanco.
+
+Cabe recalcar que el diseño no es mio al 100% ya que lo hice viendo un tutorail
 
 Users del login:
 ejemplo@gmail.com      contraseña: 333
