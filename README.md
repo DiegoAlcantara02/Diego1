@@ -1,7 +1,7 @@
 # Primer programa para programación 1 ITLA
 Esto es solo una calculadora basica en interfaz grafica como prueba, luego cambiare el programa a un login bien integrado.
 # Nombre: 
-Diego de Jesus Alcantara Toribio 
+Diego  Alcantara Toribio 
 # Matricula:
 2021-1648
 # Descripcion del programa
